@@ -7,11 +7,11 @@ cost = 50843
 #car='Acura '
 #engine='"3.5L 6cyl Turbo 10A"'
 year=2023
-a = open('edmunds.html').read()
+a = open('edmunds.html',encoding='utf8').read()
 soup = BeautifulSoup(a, features="html.parser")
 
 step=0
-location = 19 #1st in list =1
+location = 1 #1st in list =1
 #carprices=soup.find_all("div",{"class": "pricing-section"})# model
 carprices=soup.find_all("div",{"class": "col"})# model
 for carprice in carprices:
@@ -52,7 +52,7 @@ tds = soup.find_all('td')
 csv_data = []
 strings= []
 
-location=int(location/2)
+#location=int(location/2)
 
 if location == 1:
     i=-1

@@ -82,7 +82,6 @@ Taxes & Fees  $3,056   $218   $195   $177   $177 2023 "Tesla Model Y 4dr SUV" "e
    Financing  $3,831 $3,122 $2,343 $1,486   $544 2023 "Tesla Model Y 4dr SUV" "electric DD" 48436
 Depreciation $19,064 $2,689 $2,197 $2,462 $2,153 2023 "Tesla Model Y 4dr SUV" "electric DD" 48436
         Fuel    $761   $784   $808   $832   $857 2023 "Tesla Model Y 4dr SUV" "electric DD" 48436
-
    Insurance $1,763 $1,825 $1,889 $1,955 $2,023 2023 "Audi e-tron GT Premium Plus 4dr Sedan AWD" "electric 2A" 88666
  Maintenance   $141 $1,434   $385 $4,822 $1,645 2023 "Audi e-tron GT Premium Plus 4dr Sedan AWD" "electric 2A" 88666
      Repairs     $0     $0     $0   $940 $1,434 2023 "Audi e-tron GT Premium Plus 4dr Sedan AWD" "electric 2A" 88666
@@ -160,3 +159,10 @@ Taxes & Fees  $5,228   $373   $334   $303   $303 2023 "Audi e-tron Premium Plus 
    Financing  $6,563 $5,349 $4,013 $2,546   $933 2023 "Audi e-tron Premium Plus 4dr SUV AWD" "electric DD" 82980
 Depreciation $35,521 $5,431 $4,438 $4,974 $4,346 2023 "Audi e-tron Premium Plus 4dr SUV AWD" "electric DD" 82980
         Fuel  $1,198 $1,234 $1,271 $1,309 $1,348 2023 "Audi e-tron Premium Plus 4dr SUV AWD" "electric DD" 82980
+Insurance	$1,409 	$1,458 	$1,509 	$1,562 	$1,617 	2023	"BMW iX M60 M60 4dr SUV AWD"	"electric DD"	112924
+Maintenance	$0 	$0 	$492 	$1,507 	$3,131 	2023	"BMW iX M60 M60 4dr SUV AWD"	"electric DD"	112924
+Repairs	$0 	$0 	$0 	$1,018 	$1,554 	2023	"BMW iX M60 M60 4dr SUV AWD"	"electric DD"	112924
+Taxes & Fees	$7,111 	$508 	$455 	$413 	$413 	2023	"BMW iX M60 M60 4dr SUV AWD"	"electric DD"	112924
+Financing	$8,932 	$7,279 	$5,461 	$3,465 	$1,269 	2023	"BMW iX M60 M60 4dr SUV AWD"	"electric DD"	112924
+Depreciation	$24,359 	$10,011 	$8,180 	$9,167 	$8,006 	2023	"BMW iX M60 M60 4dr SUV AWD"	"electric DD"	112924
+Fuel	$1,217 	$1,253 	$1,291 	$1,330 	$1,370 	2023	"BMW iX M60 M60 4dr SUV AWD"	"electric DD"	112924

@@ -280,18 +280,18 @@ Financing,20895,17028,12777,8105,2969,2023,Audi  R8 Convertible performance Spyd
 Depreciation,89726,13327,10891,12205,10667,2023,Audi  R8 Convertible performance Spyder 2dr Convertible AWD,5.2L 10cyl 7AM,264177
 Fuel,4410,4542,4679,4819,4963,2023,Audi  R8 Convertible performance Spyder 2dr Convertible AWD,5.2L 10cyl 7AM,264177
 Insurance,1265,1309,1355,1403,1452,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Insurance,1265,1309,1355,1403,1452,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Maintenance,273,1073,1188,2825,1187,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Maintenance,273,1073,1188,2825,1187,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Repairs,0,0,0,858,1310,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Repairs,0,0,0,858,1310,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Taxes_Fees,2592,185,165,150,150,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Taxes_Fees,2592,185,165,150,150,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Financing,3248,2646,1986,1260,462,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Financing,3248,2646,1986,1260,462,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Depreciation,8346,3823,3122,3500,3058,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Depreciation,8346,3823,3122,3500,3058,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
-Fuel,2082,2144,2209,2275,2343,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Maintenance,1265,1309,1355,1403,1452,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Repairs,273,1073,1188,2825,1187,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Taxes_Fees,273,1073,1188,2825,1187,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Financing,0,0,0,858,1310,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Depreciation,0,0,0,858,1310,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Fuel,2592,185,165,150,150,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Insurance,2592,185,165,150,150,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Maintenance,3248,2646,1986,1260,462,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Repairs,3248,2646,1986,1260,462,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Taxes_Fees,8346,3823,3122,3500,3058,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Financing,8346,3823,3122,3500,3058,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
+Depreciation,2082,2144,2209,2275,2343,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
 Fuel,2082,2144,2209,2275,2343,2023,Audi Q3 Premium 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,41061
 Insurance,1265,1309,1355,1403,1452,2023,Audi Q3 Premium Plus 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,43200
 Maintenance,273,1073,1188,2825,1187,2023,Audi Q3 Premium Plus 4dr SUV AWD w/40 TFSI,2.0L 4cyl Turbo 8A,43200
@@ -445,7 +445,6 @@ Maintenance,0,0,916,2359,3282,2023,BMW 2 Series 230i xDrive 2dr Coupe AWD,2.0L 4
 Repairs,0,0,0,1102,1685,2023,BMW 2 Series 230i xDrive 2dr Coupe AWD,2.0L 4cyl Turbo 8A,46715
 Taxes_Fees,2948,210,188,171,171,2023,BMW 2 Series 230i xDrive 2dr Coupe AWD,2.0L 4cyl Turbo 8A,46715
 Financing,3695,3011,2259,1434,525,2023,BMW 2 Series 230i xDrive 2dr Coupe AWD,2.0L 4cyl Turbo 8A,46715
-Financing,3695,3011,2259,1434,525,2023,BMW 2 Series 230i xDrive 2dr Coupe AWD,2.0L 4cyl Turbo 8A,46715
 Depreciation,10366,3651,2981,3343,2921,2023,BMW 2 Series 230i xDrive 2dr Coupe AWD,2.0L 4cyl Turbo 8A,46715
 Fuel,2364,2435,2508,2583,2660,2023,BMW 2 Series 230i xDrive 2dr Coupe AWD,2.0L 4cyl Turbo 8A,46715
 Insurance,1512,1565,1620,1676,1735,2023,BMW 2 Series Gran Coupe 228i 4dr Sedan,2.0L 4cyl Turbo 8A,42665
@@ -588,7 +587,6 @@ Taxes_Fees,4040,288,258,234,234,2023,BMW 5 Series 530i xDrive 4dr Sedan AWD,2.0L
 Financing,5069,4131,3099,1967,720,2023,BMW 5 Series 530i xDrive 4dr Sedan AWD,2.0L 4cyl Turbo 8A,64087
 Depreciation,22580,4863,3971,4452,3891,2023,BMW 5 Series 530i xDrive 4dr Sedan AWD,2.0L 4cyl Turbo 8A,64087
 Fuel,2545,2621,2700,2781,2864,2023,BMW 5 Series 530i xDrive 4dr Sedan AWD,2.0L 4cyl Turbo 8A,64087
-Insurance,1872,1938,2005,2076,2148,2023,BMW 5 Series M550i xDrive M550i xDrive 4dr Sedan AWD,4.4L 8cyl Turbo 8A,89840
 Insurance,1711,1771,1833,1897,1963,2023,BMW 8 Series M850i xDrive 2dr Convertible AWD,4.4L 8cyl Turbo 8A,114206
 Maintenance,0,0,590,4405,4495,2023,BMW 8 Series M850i xDrive 2dr Convertible AWD,4.4L 8cyl Turbo 8A,114206
 Repairs,0,0,0,1102,1685,2023,BMW 8 Series M850i xDrive 2dr Convertible AWD,4.4L 8cyl Turbo 8A,114206
@@ -911,7 +909,7 @@ Taxes_Fees,3114,222,199,180,180,2023,Cadillac CT4 Sport 4dr Sedan,2.0L 4cyl Turb
 Financing,3805,3101,2327,1476,541,2023,Cadillac CT4 Sport 4dr Sedan,2.0L 4cyl Turbo 8A,48109
 Depreciation,11950,3010,2460,2755,2408,2023,Cadillac CT4 Sport 4dr Sedan,2.0L 4cyl Turbo 8A,48109
 Fuel,2452,2526,2601,2679,2760,2023,Cadillac CT4 Sport 4dr Sedan,2.0L 4cyl Turbo 8A,48109
-Insurance,1462,1513,1566,1621,1678,2023,Cadillac CT4 V Blackwing V Blackwing 4dr Sedan,3.6L 6cyl Turbo 6M,73540
+Insurance,1462,1513,1566,1621,1678,2023,Cadillac CT4 V Blackwing V Blackwing 4dr Sedan,3.6L 6cyl Turbo 6M,75025
 Maintenance,531,918,855,2725,1628,2023,Cadillac CT4 V Blackwing V Blackwing 4dr Sedan,3.6L 6cyl Turbo 6M,75025
 Repairs,0,0,0,769,1174,2023,Cadillac CT4 V Blackwing V Blackwing 4dr Sedan,3.6L 6cyl Turbo 6M,75025
 Taxes_Fees,4634,331,296,269,269,2023,Cadillac CT4 V Blackwing V Blackwing 4dr Sedan,3.6L 6cyl Turbo 6M,75025

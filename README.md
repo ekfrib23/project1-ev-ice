@@ -8,7 +8,7 @@ Edumonds assumes an average deprecation of 23.5% of the manufacturer’s suggest
 
 <figure>
 <p align="center">
-<img src="YearlyCostOfOwnership.pdf" width= "200">
+<embed src="YearlyCostOfOwnership.pdf" width= "200">
 <figure>
 <p align="center">
 <img src="cost_per_mile.pdf" width= "200">

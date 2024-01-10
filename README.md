@@ -9,6 +9,8 @@ Edumonds assumes an average deprecation of 23.5% of the manufacturer’s suggest
 
 Figure 1: The total yearly cost of ownership for a new 2023
 <img src="YearlyCostOfOwnership.png" width= "700">
+
+
 The total yearly cost to own a new 2023 vehicle being considered in this analysis for five years is plotted in Figure 1. The three fuel types being considered are examined separately to determine if there is any trends. The most noticeable feature is that regardless of the vehicle model, the first year of ownership is the most expensive and each subsequent year the cost is significantly reduced relative to the first year. After the first year, the average yearly cost of ownership is around $10,500 for electrics, $13,900 for hybrids and $12,400 for gas vehicles. In the yearly cost in the second through fifth years, the electric cars end up costing slightly less than. This behavior be seen more clearly in the itemized yearly cost Figure 2. The means of all cars in the csv files are calculated based on the fuel type to determine the cost per 15,000 miles. In all cases, the Edmund database predicts that the largest yearly expense is the depreciation. Although the cost for taxes, fees and financing decreases over time, the maintenance and repairs increases resulting a possible slight dip in the third year. Over the course of five years, the total cost to maintain an electric vehicle and traditional gas car are similar while the hybrid vehicle remains more expensive to maintain.
 
 Figure 2: The itemized cost per year

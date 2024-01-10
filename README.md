@@ -5,25 +5,24 @@ According to the US census, 91.9% of households have at least one vehicle [usc22
 Ultimately, it was found in a 2022 survey, the fuel efficiency, safety and low price was the most important consideration when purchasing a new vehicle [stat22]. What many do not account for is the hidden cost of buying a vehicle is the cost of ownership. There exist several websites that calculate a 5 year estimate for the cost of ownership [aaa, kel, edu] with non-existent api’s or restricted access to them based on commercial usage. For the purpose of this project, data was extracted from the Edumunds database. Tables from the html pages were extracted from a subset of 2023 vehicle data using a python script[kwa24]. The data was converted and saved as cvs files in the Resources folder. The file analysis_5year_ownership_all.ipynb contains the analysis of the yearly cost of ownership for five years for a new 2023 internal combustion engine cars or traditional gas cars, hybrid and electric cars which reads the Edmunds.csv, Edmunds_hybrid.csv and Edmunds_ev.csv data files. The data extracted was confined to only cars, specifically sedans and SUVs, from the model year 2023 due to the limiting number of models and data available of fully electric cars in prior years. The actual cost of ownership will vary from person to person and on what assumptions the databases use assumes. The seven main factors for the cost of ownership included in this analysis are taxes and fees, fuel, maintenance, repairs, financing costs or interest, insurance premiums and depreciation.
 Edumonds assumes an average deprecation of 23.5% of the manufacturer’s suggested retail price for the first year of ownership and a 60% deprecation in five years. They also assume that a typical person drives 15,000 miles/year and that the car is financed for 60 months with 10% of the cost of the vehicle down. The price of fuel or electricity and the amount of taxes paid depends on the location and for the purpose of this analysis Mid-Michigan is used. 
 
+See figure \ref{{yearlycost}.
 
-<figure>
-<p align="center">
-<embed src="YearlyCostOfOwnership.pdf" width= "200">
-<figure>
-<p align="center">
-<img src="cost_per_mile.pdf" width= "200">
+![The estimated total cost of ownership\label{yearlycost}]
+<img src="YearlyCostOfOwnership.png" width= "700">
 
 
-<figure>
-<p align="center">
-<img src="depreciation. pdf" width= "200">
 
-<figure>
-<p align="center">
-YearlyPercentageOfCost.pdf. pdf" width= "200">
+<img src="cost_per_mile.png" width= "900">
 
 
-## References 
+<img src="depreciation.png" width= :100%>
+
+
+
+<img src="YearlyPercentageOfCost.png" width= 100%>
+
+
+### References 
 
 [usc22] U.S. Census Bureau 5-Year American Community Survey (2018-2022) https://data.census.gov/table/ACSDP5Y2022.DP04?g=040XX00US15&tid=ACSDP5Y2022.DP04
 [bus19] Knueven, L. "The 7 most expensive things you’ll ever pay for, according to financial planners." Business Insiderhttps://www.businessinsider.com/personal-finance/most-expensive-things-americans-will-pay-for-2019-8, Aug 15, 2019.
